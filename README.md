@@ -1,9 +1,5 @@
 <p align="center">
-  <a href="https://github.com/yfourzy"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:000000,100:2B2B2B&height=220&section=header&text=Yazzmyn%20Carreira&fontSize=70&fontColor=FFFFFF&fontAlignY=42&desc=Game%20Developer%20%26%20Designer%20%C2%B7%20Unity%20%C2%B7%20Roblox%20Studio%20%C2%B7%20Blender&descSize=22&descAlignY=64&v=2" width="100%" alt="Yazzmyn Carreira, Game Developer and Designer" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:000000,100:2B2B2B&height=220&section=header&text=Yazzmyn%20Carreira&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Game%20Developer%20%26%20Designer%20%C2%B7%20Unity%20%C2%B7%20Roblox%20Studio%20%C2%B7%20Blender&descSize=22&descAlignY=64" width="100%" alt="Yazzmyn Carreira, Game Developer and Designer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=YAZZMYN%20CARREIRA&fontSize=80&fontColor=FFFFFF&fontAlignY=50&v=5" width="100%" alt="Yazzmyn Carreira" />
 </p>
 
 <h3 align="center">GAME DEVELOPER & DESIGNER · COMPUTER SCIENCE @ UNLV · LAS VEGAS, NV</h3>
@@ -25,10 +21,10 @@
 
 ```python
 me = {
-    "does":      "game development: gameplay programming, 3D art, sound design, QA",
-    "based":     "Las Vegas, NV",
-    "team":      "GOOCAT student game dev group, 2023 - 2026",
-    "degree":    "B.S. Computer Science, minor in Game Development, UNLV",
+    "does":      "Game Development & Design: Gameplay Programming, 3D Art, Sound Design, QA, etc.",
+    "based in":  "Las Vegas, NV",
+    "team":      "GOOCAT Game Development Group, 2023 - 2026",
+    "degree":    "B.S. Computer Science @ UNLV",
     "engines":   ["Unity", "Roblox Studio", "GameMaker"],
     "languages": ["C#", "Luau"],
     "patterns":  ["Singleton", "Observer", "Event-Driven Architecture"],
@@ -82,11 +78,11 @@ me = {
 
 <table>
   <tr>
-    <td width="36%" valign="top"><b>B.S. Computer Science, Minor in Game Development</b><br /><sub>University of Nevada, Las Vegas · 2026 – Present</sub></td>
-    <td valign="top">Computer Science major with a Game Development minor.</td>
+    <td width="36%" valign="top"><b>B.S. in Computer Science</b><br /><sub>University of Nevada, Las Vegas · 2026 – Present</sub></td>
+    <td valign="top">Currently pursuing my B.S. Degree at UNLV as a Computer Science major.</td>
   </tr>
   <tr>
-    <td width="36%" valign="top"><b>Digital Game Development Program (3 years), 3D Animation (1 year)</b><br /><sub>Southwest Career and Technical Academy · 2022 – 2026</sub></td>
+    <td width="36%" valign="top"><b>Digital Game Development Program (3 years) & 3D Animation (1 year)</b><br /><sub>Southwest Career and Technical Academy · 2022 – 2026</sub></td>
     <td valign="top">Student of Excellence award. Collaborated with teams of 5 to 9 developers through GOOCAT on 2 shipped and 2 in-progress titles.</td>
   </tr>
 </table>
